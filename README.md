@@ -28,11 +28,10 @@ After performing each exercise a button called `get my config` appears. By click
 You should do this for each level and send the JSON files from the 10 levels in the Repository root folder.
 
 ## Useful Links
-Free CCNA | Subnetting 	[Free CCNA | Subnetting](https://www.youtube.com/watch?si=nzX1L8dw5cVbiA3F&v=Ct4PU6CyvTQ&feature=youtu.be)
-What is Subnetting? 	Youtube 	Practical Networking
-Default Gateway Explained 	Youtube 	PowerCert Animated Videos
-Subnet Mask - Explained 	Youtube 	PowerCert Animated Videos
-
+- [Free CCNA | Subnetting](https://www.youtube.com/watch?si=nzX1L8dw5cVbiA3F&v=Ct4PU6CyvTQ&feature=youtu.be)
+- [What is Subnetting?](https://www.youtube.com/watch?v=BWZ-MHIhqjM&feature=youtu.be)
+- [Default Gateway Explained](https://www.youtube.com/watch?v=pCcJFdYNamc)
+- [Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 - [lpaube's Guide to NetPractice](https://github.com/lpaube/NetPractice)
 - [Curso de Endereçamento IP](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
