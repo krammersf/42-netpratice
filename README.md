@@ -2,7 +2,6 @@
 
 ## Links
 
-https://linuxhint.com/ipcalc-command-linux/
 
 
 
@@ -30,6 +29,7 @@ After performing each exercise a button called `get my config` appears. By click
 - [Curso de Endereçamento IP](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - [TCP/IP Model Explained](https://www.youtube.com/watch?v=OTwp3xtd4dg)
+- [Ipcalc Command Linux](https://linuxhint.com/ipcalc-command-linux/)
 
 ## My Solutions
 
@@ -38,17 +38,53 @@ After performing each exercise a button called `get my config` appears. By click
 <img src=images/level_1.png>
 </details>
 
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_2.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_3.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_4.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_5.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_6.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_7.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_8.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_9.png>
+</details>
+
+<details>
+  <summary>Level 1</summary>
+<img src=images/level_10.png>
+</details>
 
 
-
-
-
-
-
-
-
-
-
+### APAGAR
 
 
 
