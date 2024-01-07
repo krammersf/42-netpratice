@@ -35,7 +35,7 @@ After performing each exercise a button called `get my config` appears. By click
 
 <details>
   <summary>Level 1</summary>
-![level_1](https://github.com/krammersf/42_netpratice/assets/127677607/1c408f29-dfff-48d6-a422-e43cc5dade1b)
+https://github.com/krammersf/42_netpratice/assets/127677607/1c408f29-dfff-48d6-a422-e43cc5dade1b
 
 
 </details>
