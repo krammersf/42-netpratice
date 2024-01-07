@@ -9,7 +9,7 @@ A web-based training interface is provided to simulate the network configuration
 ## How to use?
 
 1. Download the project files from the attached file on the project's page.
-   in this case the file is in the subject dir.
+   In this case the file is in the subject dir.
 3. Extract the files to a preferred folder on your local machine.
 4. Open the folder and run the `index.html` file in a web browser. In training mode, you need to insert your username in the `Username` field and click `Start`.
 > If the index.html don't work correctly in Firefox, It's recommend to use another browser, like the Google Chrome browser or Brave browser.
@@ -26,7 +26,7 @@ You should do this for each level and send the JSON files from the 10 levels in 
 - [Default Gateway Explained](https://www.youtube.com/watch?v=pCcJFdYNamc)
 - [Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 
-### website
+### Website
 - [lpaube's Guide to NetPractice](https://github.com/lpaube/NetPractice)
 - [Curso de Endereçamento IP](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
