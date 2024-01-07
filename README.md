@@ -36,7 +36,7 @@ After performing each exercise a button called `get my config` appears. By click
 <details>
   <summary>Level 1</summary>
 <img src=images/level_1.png>
-<details>
+</details>
 
 
 
