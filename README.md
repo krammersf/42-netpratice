@@ -1,14 +1,5 @@
-# 42_netpratice
 
-## Links
-
-
-
-
-
-
-
-# Net_Practice
+# net_practice
 
 This repository contains the solutions for the NetPractice Network Configuration Project. The project aims to develop a better understanding of TCP/IP addressing and network configuration by completing a series of exercises.
 
@@ -28,10 +19,14 @@ After performing each exercise a button called `get my config` appears. By click
 You should do this for each level and send the JSON files from the 10 levels in the Repository root folder.
 
 ## Useful Links
+
+### Youtube Video
 - [Free CCNA | Subnetting](https://www.youtube.com/watch?si=nzX1L8dw5cVbiA3F&v=Ct4PU6CyvTQ&feature=youtu.be)
 - [What is Subnetting?](https://www.youtube.com/watch?v=BWZ-MHIhqjM&feature=youtu.be)
 - [Default Gateway Explained](https://www.youtube.com/watch?v=pCcJFdYNamc)
 - [Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)
+
+### website
 - [lpaube's Guide to NetPractice](https://github.com/lpaube/NetPractice)
 - [Curso de Endereçamento IP](https://www.youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
