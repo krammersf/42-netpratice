@@ -37,47 +37,47 @@ You should do this for each level and send the JSON files from the 10 levels in 
 
 <details>
   <summary>Level 1</summary>
-<img src=images/level_1.png>
+<img src=images/level_01.png>
 </details>
 
 <details>
   <summary>Level 2</summary>
-<img src=images/level_2.png>
+<img src=images/level_02.png>
 </details>
 
 <details>
   <summary>Level 3</summary>
-<img src=images/level_3.png>
+<img src=images/level_03.png>
 </details>
 
 <details>
   <summary>Level 4</summary>
-<img src=images/level_4.png>
+<img src=images/level_04.png>
 </details>
 
 <details>
   <summary>Level 5</summary>
-<img src=images/level_5.png>
+<img src=images/level_05.png>
 </details>
 
 <details>
   <summary>Level 6</summary>
-<img src=images/level_6.png>
+<img src=images/level_06.png>
 </details>
 
 <details>
   <summary>Level 7</summary>
-<img src=images/level_7.png>
+<img src=images/level_07.png>
 </details>
 
 <details>
   <summary>Level 8</summary>
-<img src=images/level_8.png>
+<img src=images/level_08.png>
 </details>
 
 <details>
   <summary>Level 9</summary>
-<img src=images/level_9.png>
+<img src=images/level_09.png>
 </details>
 
 <details>
