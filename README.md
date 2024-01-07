@@ -35,18 +35,8 @@ After performing each exercise a button called `get my config` appears. By click
 
 <details>
   <summary>Level 1</summary>
+![level_1](https://github.com/krammersf/42_netpratice/assets/127677607/1c408f29-dfff-48d6-a422-e43cc5dade1b)
 
-##### Goals
-- `🖥️ A` comunicate with `🖥️ B`
-- `💻 C` comunicate with `🖥️ D`
-
-#### Founded Issues
-- [ ] - `🖥️ A` and `🖥️ B` has an established cable connection but they are using a different IP address range.
-- [ ] - `💻 C` and `🖥️ D` has an established cable connection but they are using a different IP address range.
-
-#### How to fix?
-1. Change `📶 A1 IP address` to the same of `📶 B1` + 1.
-2. Change `📶 C1 IP address` to the same of `📶 D1` + 1.
 
 </details>
 
