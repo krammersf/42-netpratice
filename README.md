@@ -6,6 +6,9 @@ This repository contains the solutions for the NetPractice Network Configuration
 The project consists of 10 levels, each representing a non-functioning network diagram. The goal is to identify and resolve the issues to make the network run properly.
 A web-based training interface is provided to simulate the network configurations.
 
+![Recording](https://github.com/krammersf/42_netpratice/assets/127677607/45e6c35f-9a12-4832-86df-cc42dcc1d550)
+
+
 ## How to use?
 
 1. Download the project files from the attached file on the project's page.
